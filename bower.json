@@ -1,5 +1,5 @@
 {
-  "name": "SassChops Base Settings",
+  "name": "sasschops-site-settings",
   "version": "0.2.0",
   "authors": [
     "Claudina Sarahe <cs@misscs.me>"
@@ -11,5 +11,8 @@
     "css"
   ],
   "license": "Apache",
-  "homepage": "https://github.com/misscs/"
+  "homepage": "https://github.com/misscs/sasschops-settings.config",
+  "ignore": [
+
+  ]
 }
