@@ -1,0 +1,15 @@
+{
+  "name": "SassChops Base Settings",
+  "version": "0.2.0",
+  "authors": [
+    "Claudina Sarahe <cs@misscs.me>"
+  ],
+  "description": "Base settings file to teach Sass variables and default assignment",
+  "main": "_settings.config.scss",
+  "keywords": [
+    "sass",
+    "css"
+  ],
+  "license": "Apache",
+  "homepage": "https://github.com/misscs/"
+}
