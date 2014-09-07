@@ -1,11 +1,11 @@
 {
-  "name": "sasschops-site-settings",
-  "version": "0.2.0",
+  "name": "project-colophon",
+  "version": "0.3.0",
   "authors": [
     "Claudina Sarahe <cs@misscs.me>"
   ],
   "description": "Base settings file to teach Sass variables and default assignment",
-  "main": "_settings.config.scss",
+  "main": "_colophon.scss",
   "keywords": [
     "sass",
     "css"
