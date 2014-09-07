@@ -12,8 +12,8 @@ $project-author: 'Claudina Sarahe' !default;
 $project-license: 'Apache' !default; // [2]
 $project-version: '0.3.0' !default; // [1]
 
-$project-name: 'SassChops';
-$project-description: 'Get your Sass a cut above the rest';
+$project-name: 'SassChops' !default;
+$project-description: 'Get your Sass a cut above the rest' !default;
 
 /*
   * =================================
