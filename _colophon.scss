@@ -1,0 +1,26 @@
+// Colophon
+// ========
+// A simple file utility to set some basic file header information.
+
+// Site Info
+// ----------
+// 1. Versioned using semantic versioning
+// 2. [Handy guide to picking a license](http://choosealicense.com/)
+
+$project-copyright-year: 2014 !default;
+$project-author: 'Claudina Sarahe' !default;
+$project-license: 'Apache' !default; // [2]
+$project-version: '0.1.0' !default; // [1]
+
+$project-name: 'SassChops'
+$project-description: 'Get your Sass a cut above the rest';
+
+/*
+  * =================================
+  * Colophone for {$project-name}
+  * #{$project-description}
+  * Created by #{$site-author}
+  * Liscensed #{$site-license}
+  * Copyright #{$site-copyright-year}
+  * ==================================
+ */

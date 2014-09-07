@@ -12,7 +12,5 @@
   ],
   "license": "Apache",
   "homepage": "https://github.com/misscs/sasschops-settings.config",
-  "ignore": [
-
-  ]
+  "ignore": []
 }
